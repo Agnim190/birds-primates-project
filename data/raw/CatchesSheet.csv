@@ -1,0 +1,132 @@
+Date,Time,Status,Test,Playback,Primates.Present,Net ,Plot,Stimulus,Experiment,Catches,I_Score,FG_Score,O_Score,N_Score,Catch Spc.
+14-Aug,07:05,Y,Playback,Black Colobus,Mangabey,Top,A,OBC1,1,0,0,0,0,0,
+14-Aug,07:05,Y,Control,Silent,N,Bottom,B,N,1,0,0,0,0,0,
+14-Aug,07:40,Y,Control,Silent,Mangabey,Top,A,N,2,0,0,0,0,0,
+14-Aug,07:40,Y,Playback,Red Colobus,N,Bottom,B,ORC1,2,0,0,0,0,0,
+14-Aug,08:15,Y,Playback,Chimpanzee,Mangabey,Top,A,CZ1,3,1,0,1,0,0,Olive Green Camaroptera
+14-Aug,08:15,Y,Control,Silent,N,Bottom,B,N,3,0,0,0,0,0,
+14-Aug,08:50,Y,Control,Silent,N,Top,A,N,4,2,0,0,1,1,"Olive Sunbird, Little Greenbul"
+14-Aug,08:50,Y,Playback,Mangabey,Mangabey,Bottom,B,OGM1,4,0,0,0,0,0,
+14-Aug,09:25,Y,Playback,Mangabey,N,Top,A,OGM2,5,1,0,0,1,0,Dark Backed Weaver
+14-Aug,09:25,Y,Control,Silent,Mangabey,Bottom,B,N,5,0,0,0,0,0,
+14-Aug,10:00,Y,Control,Silent,N,Top,A,N,6,1,0,0,1,0,Toro Olive Greenbul
+14-Aug,10:00,Y,Playback,Chimpanzee,N,Bottom,B,CZ2,6,0,0,0,0,0,
+14-Aug,10:35,Y,Playback,Red Colobus,N,Top,A,ORC2,7,0,0,0,0,0,
+14-Aug,10:35,Y,Control,Silent,N,Bottom,B,N,7,0,0,0,0,0,
+14-Aug,11:10,Y,Control,Silent,N,Top,A,N,8,1,1,0,0,0,Green Backed Camaroptera
+14-Aug,11:10,Y,Playback,Black Colobus,N,Bottom,B,OBC2,8,0,0,0,0,0,
+15-Aug,07:05,Y,Playback,Red Colobus,Mangabey,Top,C,ORC3,9,0,0,0,0,0,
+15-Aug,07:05,Y,Control,Silent,N,Bottom,D,N,9,0,0,0,0,0,
+15-Aug,07:40,Y,Control,Silent,N,Top,C,N,10,1,0,0,0,1,Olive Sunbird
+15-Aug,07:40,Y,Playback,Chimpanzee,N,Bottom,D,CZ3,10,1,0,0,0,1,Olive Sunbird
+15-Aug,08:15,Cancelled,Playback,Mangabey,N,Top,C,OGM3,11,,,,,,
+15-Aug,08:15,Cancelled,Control,Silent,N,Bottom,D,N,11,,,,,,
+15-Aug,08:50,Y,Control,Silent,N,Top,C,N,12,1,1,0,0,0,Brown Chested Alethe
+15-Aug,08:50,Y,Playback,Black Colobus,N,Bottom,D,OBC3,12,0,0,0,0,0,
+15-Aug,09:25,Y,Playback,Black Colobus,N,Top,C,OBC4,13,0,0,0,0,0,
+15-Aug,09:25,Y,Control,Silent,N,Bottom,D,N,13,0,0,0,0,0,
+15-Aug,10:00,Y,Control,Silent,N,Top,C,N,14,1,0,0,0,1,Olive Sunbird
+15-Aug,10:00,Y,Playback,Mangabey,N,Bottom,D,OGM1,14,1,0,0,0,1,Olive Sunbird
+15-Aug,10:35,Y,Playback,Chimpanzee,N,Top,C,CZ4,15,1,1,0,0,0,Green Hylia
+15-Aug,10:35,Y,Control,Silent,N,Bottom,D,N,15,0,0,0,0,0,
+15-Aug,11:10,Y,Control,Silent,N,Top,C,N,16,1,0,0,1,0,Yellow Whiskered Greenbul
+15-Aug,11:10,Y,Playback,Red Colobus,N,Bottom,D,ORC4,16,0,0,0,0,0,
+16-Aug,07:05,Y,Playback,Chimpanzee,N,Top,E,CZ5,17,0,0,0,0,0,
+16-Aug,07:05,Y,Control,Silent,N,Bottom,F,N,17,0,0,0,0,0,
+16-Aug,07:40,Y,Control,Silent,N,Top,E,N,18,2,0,0,1,1,"Olive Sunbird, Red Tailed Bristlebill"
+16-Aug,07:40,Y,Playback,Mangabey,N,Bottom,F,OGM2,18,0,0,0,0,0,
+16-Aug,08:15,Y,Playback,Black Colobus,N,Top,E,OBC5,19,0,0,0,0,0,
+16-Aug,08:15,Y,Control,Silent,Olive Baboon,Bottom,F,N,19,1,0,0,0,1,Olive Sunbird
+16-Aug,08:50,Y,Control,Silent,N,Top,E,N,20,0,0,0,0,0,
+16-Aug,08:50,Y,Playback,Red Colobus,Olive Baboon,Bottom,F,ORC5,20,0,0,0,0,0,
+16-Aug,09:25,Y,Playback,Red Colobus,N,Top,E,ORC1,21,0,0,0,0,0,
+16-Aug,09:25,Y,Control,Silent,Red Colobus,Bottom,F,N,21,1,0,0,1,0,Yellow Whiskered Greenbul
+16-Aug,10:00,Y,Control,Silent,N,Top,E,N,22,1,0,0,0,1,Olive Sunbird
+16-Aug,10:00,Y,Playback,Black Colobus,N,Bottom,F,OBC5,22,0,0,0,0,0,
+16-Aug,10:35,Y,Playback,Black Colobus,N,Top,E,OBC3,23,0,0,0,0,0,
+16-Aug,10:35,Y,Control,Silent,N,Bottom,F,N,23,1,0,0,1,0,Plain Greenbul
+16-Aug,11:10,Y,Control,Silent,N,Top,E,N,24,1,0,0,0,1,Olive Sunbird
+16-Aug,11:10,Y,Playback,Mangabey,N,Bottom,F,OGM1,24,0,0,0,0,0,
+18-Aug,07:25,Delayed,Playback,Chimpanzee,N,Top,E,CZ1,25,0,0,0,0,0,
+18-Aug,07:25,Delayed,Control,Silent,N,Bottom,F,N,25,0,0,0,0,0,
+18-Aug,08:00,Delayed,Control,Silent,N,Top,E,N,26,1,0,0,1,0,Yellow Whiskered Greenbul
+18-Aug,08:00,Delayed,Playback,Red Colobus,N,Bottom,F,NRC1,26,0,0,0,0,0,
+18-Aug,08:35,Delayed,Playback,Mangabey,Red Colobus,Top,E,NGM1,27,0,0,0,0,0,
+18-Aug,08:35,Delayed,Control,Silent,N,Bottom,F,N,27,0,0,0,0,0,
+18-Aug,09:10,Delayed,Control,Silent,N,Top,E,N,28,0,0,0,0,0,
+18-Aug,09:10,Delayed,Playback,Black Colobus,N,Bottom,F,NBC1,28,0,0,0,0,0,
+18-Aug,09:45,Delayed,Playback,Black Colobus,N,Top,E,NBC2,29,0,0,0,0,0,
+18-Aug,09:45,Delayed,Control,Silent,N,Bottom,F,N,29,0,0,0,0,0,
+18-Aug,10:20,Delayed,Control,Silent,N,Top,E,N,30,0,0,0,0,0,
+18-Aug,10:20,Delayed,Playback,Mangabey,N,Bottom,F,NGM2,30,0,0,0,0,0,
+18-Aug,10:55,Delayed,Playback,Red Colobus,N,Top,E,NRC2,31,0,0,0,0,0,
+18-Aug,10:55,Delayed,Control,Silent,N,Bottom,F,N,31,0,0,0,0,0,
+18-Aug,11:35,Delayed,Control,Silent,N,Top,E,N,32,0,0,0,0,0,
+18-Aug,11:35,Delayed,Playback,Mangabey,N,Bottom,F,NGM3,32,0,0,0,0,0,
+19-Aug,07:05,Y,Playback,Black Colobus,N,Top,G,NBC4,33,2,1,1,0,0,"Brown Chested Alethe, Red Headed Bluebill"
+19-Aug,07:05,Delayed,Control,Silent,N,Bottom,H,N,33,1,0,0,0,1,Olive Sunbird
+19-Aug,07:50,Delayed,Control,Silent,N,Top,G,N,34,2,0,1,1,0,"Toro Olive Greenbul, White Throated Greenbul"
+19-Aug,07:50,Delayed,Playback,Owlet,N,Bottom,H,OWL1,34,4,0,0,2,1,"Yellow Whiskered Greenbul, Mystery Greenbul, Olive Sunbird, Olive Sunbird"
+19-Aug,08:25,Delayed,Playback,Mangabey,N,Top,G,NGM4,35,0,0,0,0,0,
+19-Aug,08:25,Delayed,Control,Silent,N,Bottom,H,N,35,1,0,0,1,0,Yellow Whiskered Greenbul
+19-Aug,09:00,Delayed,Control,Silent,Black Colobus,Top,G,N,36,3,2,0,1,0,"Green Hylia, Scaly Breasted Illadopsis, Red Tailed Bristlebill"
+19-Aug,09:00,Delayed,Playback,Red Colobus,N,Bottom,H,NRC3,36,0,0,0,0,0,
+19-Aug,09:35,Delayed,Playback,Red Colobus,N,Top,G,NRC4,37,0,0,0,0,0,
+19-Aug,09:35,Delayed,Control,Silent,N,Bottom,H,N,37,0,0,0,0,0,
+19-Aug,10:10,Delayed,Control,Silent,N,Top,G,N,38,2,0,0,1,1,"Olive Sunbird, Yellow Whiskered Greenbul"
+19-Aug,10:10,Delayed,Playback,Mangabey,N,Bottom,H,NGM2,38,0,0,0,0,0,
+19-Aug,10:45,Delayed,Playback,Owlet,N,Top,G,OWL2,39,2,0,0,1,1,"Olive Sunbird, Yellow Whiskered Greenbul"
+19-Aug,10:45,Delayed,Control,Silent,N,Bottom,H,N,39,0,0,0,0,0,
+19-Aug,11:20,Delayed,Control,Silent,N,Top,G,N,40,1,1,0,0,0,Olive Camaroptera
+19-Aug,11:20,Delayed,Playback,Black Colobus,N,Bottom,H,NBC5,40,2,0,0,2,0,"Little Greenbul, Yellow Whiskered Greenbul"
+20-Aug,07:05,Y,Playback,Red Colobus,Red-Tailed Monkey,Top,I,NRC5,41,0,0,0,0,0,
+20-Aug,07:05,Y,Control,Silent,N,Bottom,J,N,41,1,0,0,1,0,Red Tailed Bristlebill
+20-Aug,07:40,Y,Control,Silent,N,Top,I,N,42,1,0,0,1,0,Red Tailed Bristlebill
+20-Aug,07:40,Y,Playback,Mangabey,N,Bottom,J,NGM3,42,0,0,0,0,0,
+20-Aug,08:15,Y,Playback,Owlet,N,Top,I,OWL3,43,1,1,0,0,0,Equatorial Akalat
+20-Aug,08:15,Y,Control,Silent,N,Bottom,J,N,43,3,1,0,2,0,"Chestnut Wattleeye, Little Greenbul, Yellow Whiskered Greenbul"
+20-Aug,08:50,Y,Control,Silent,Black Colobus,Top,I,N,44,0,0,0,0,0,
+20-Aug,08:50,Y,Playback,Black Colobus,N,Bottom,J,NBC1,44,1,0,0,1,0,Toro Olive Greenbul
+20-Aug,09:25,Y,Playback,Black Colobus,Black Colobus,Top,I,NBC3,45,0,0,0,0,0,
+20-Aug,09:25,Y,Control,Silent,N,Bottom,J,N,45,2,2,0,0,0,"Red Bellied Paradise Flycatcher, Equatorial Akalat"
+20-Aug,10:00,Y,Control,Silent,N,Top,I,N,46,0,0,0,0,0,
+20-Aug,10:00,Y,Playback,Owlet,N,Bottom,J,OWL4,46,3,0,0,2,1,"Little Greenbul, Olive Sunbird, Little Greenbul"
+20-Aug,10:35,Reduced,Playback,Mangabey,N,Top,I,NGM2,47,0,0,0,0,0,
+20-Aug,10:35,Reduced,Control,Silent,N,Bottom,J,N,47,2,0,1,1,0,"Red Headed Bluebill, Yellow Whiskered Greenbul"
+20-Aug,11:10,Cancelled,Control,Silent,N,Top,I,N,48,,,,,,
+20-Aug,11:10,Cancelled,Playback,Red Colobus,N,Bottom,J,NRC3,48,,,,,,
+07-Aug,07:15,Pilot,Playback,Owlet,,,K,OWL1,49,6,,,,,
+07-Aug,07:15,Pilot,Playback,Trogon,,,L,NAT1,49,1,,,,,
+07-Aug,07:15,Pilot,Control,Silent,,,M,N,49,0,,,,,
+07-Aug,07:50,Pilot,Control,Silent,,,K,N,50,3,,,,,
+07-Aug,08:25,Pilot,Playback,Trogon,,,K,NAT2,51,1,,,,,
+07-Aug,08:25,Pilot,Control,Silent,,,L,N,51,1,,,,,
+07-Aug,08:25,Pilot,Playback,Owlet,,,M,OWL2,51,1,,,,,
+07-Aug,09:00,Pilot,Control,Silent,,,M,N,52,0,,,,,
+07-Aug,09:35,Pilot,Control,Silent,,,K,N,53,0,,,,,
+07-Aug,09:35,Pilot,Playback,Owlet,,,L,OWL3,53,3,,,,,
+07-Aug,09:35,Pilot,Playback,Trogon,,,M,NAT3,53,3,,,,,
+07-Aug,10:10,Pilot,Control,Silent,,,L,N,54,2,,,,,
+07-Aug,10:45,Pilot,Control,Silent,,,K,N,55,0,,,,,
+07-Aug,10:45,Pilot,Control,Silent,,,L,N,55,0,,,,,
+07-Aug,10:45,Pilot,Playback,Owlet,,,M,OWL4,55,0,,,,,
+07-Aug,15:10,Pilot,Control,Silent,,,K,N,56,2,,,,,
+07-Aug,15:10,Pilot,Playback,Trogon,,,M,NAT1,56,0,,,,,
+07-Aug,15:45,Pilot,Playback,Owlet,,,K,OWL1,57,0,,,,,
+07-Aug,15:45,Pilot,Control,Silent,,,M,N,57,0,,,,,
+07-Aug,16:20,Pilot,Playback,Trogon,,,K,NAT1,58,0,,,,,
+07-Aug,16:20,Pilot,Control,Silent,,,L,N,58,0,,,,,
+07-Aug,16:55,Pilot,Control,Silent,,,K,N,59,1,,,,,
+07-Aug,16:55,Pilot,Playback,Owlet,,,L,OWL2,59,0,,,,,
+07-Aug,17:30,Pilot,Playback,Trogon,,,L,NAT3,60,1,,,,,
+07-Aug,17:30,Pilot,Control,Silent,,,M,N,60,0,,,,,
+08-Aug,07:15,Pilot,Playback,Owlet,,,K,OWL5,61,1,,,,,
+08-Aug,07:15,Pilot,Control,Silent,,,L,N,61,1,,,,,
+08-Aug,07:50,Pilot,Playback,Trogon,,,L,NAT5,62,0,,,,,
+08-Aug,07:50,Pilot,Control,Silent,,,M,N,62,1,,,,,
+08-Aug,08:25,Pilot,Control,Silent,,,K,N,63,0,,,,,
+08-Aug,08:25,Pilot,Playback,Owlet,,,M,OWL4,63,2,,,,,
+08-Aug,09:00,Pilot,Playback,Trogon,,,K,NAT3,64,3,,,,,
+08-Aug,09:00,Pilot,Control,Silent,,,L,N,64,0,,,,,
+08-Aug,09:35,Pilot,Playback,Owlet,,,L,OWL3,65,2,,,,,
+08-Aug,09:35,Pilot,Control,Silent,,,M,N,65,0,,,,,

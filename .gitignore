@@ -1,0 +1,22 @@
+# Local archive
+archive_local/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary files
+*~
+*.tmp
+*.swp
+~$*
+
+# OS files
+.DS_Store
